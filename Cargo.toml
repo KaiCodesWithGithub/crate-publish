@@ -3,5 +3,10 @@ name = "kct-crate-publish"
 version = "0.1.0"
 author = "KaiCodesTech"
 edition = "2021"
+description = "A crate to calculate the fibonacci sequence, used to demonstrate how to publish a crate to crates.io"
+license = "MIT"
+repository = "https://github.com/KaiCodesWithGithub/crate-publish"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
