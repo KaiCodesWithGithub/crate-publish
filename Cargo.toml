@@ -1,0 +1,7 @@
+[package]
+name = "kct-crate-publish"
+version = "0.1.0"
+author = "KaiCodesTech"
+edition = "2021"
+
+[dependencies]
